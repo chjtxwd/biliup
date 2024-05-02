@@ -39,3 +39,4 @@ qrcode.png
 data/
 .next
 out
+.gitpod.yml
